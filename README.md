@@ -1,4 +1,4 @@
-#Sentiment Analysis of Amazon Product Reviews
+# Sentiment Analysis of Amazon Product Reviews
 This project at Northeastern University focuses on applying Natural Language Processing (NLP) to perform sentiment analysis on Amazon product reviews. Our aim is to categorize sentiments as positive or negative, providing insights for both potential buyers and sellers.
 
 #### Overview
